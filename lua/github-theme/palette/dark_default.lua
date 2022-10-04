@@ -5,7 +5,7 @@ return function()
   ---@type gt.ColorPalette
   local palette = {
     -- Background Colors
-    bg = '#0d1117',
+    bg = '#131313',
     bg2 = '#090c10',
 
     -- foreground colors

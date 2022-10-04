@@ -6,7 +6,7 @@ return function()
   local palette = {
     -- Background Colors
     bg = '#131313',
-    bg2 = '#090c10',
+    bg2 = '#131313',
 
     -- foreground colors
     -- fg = '#c9d1d9',
